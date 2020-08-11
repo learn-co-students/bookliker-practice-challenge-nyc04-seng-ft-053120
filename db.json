@@ -7,16 +7,7 @@
       "description": "Back in print for the first time in nearly thirty years, here is Yoko Ono's whimsical, delightful, subversive, startling book of instructions for art and for life. 'Burn this book after you've read it.' -- Yoko 'A dream you dream alone may be a dream, but a dream two people dream together is a reality. This is the greatest book I've ever burned.' -- John",
       "author": "Yoko Ono",
       "img_url": "https://books.google.com/books/content?id=3S8Rwr-iBdoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-      "users": [
-        {
-          "id": 2,
-          "username": "auer"
-        },
-        {
-          "id": 8,
-          "username": "maverick"
-        }
-      ]
+      "users": 3
     },
     {
       "id": 2,
@@ -51,16 +42,7 @@
       "description": "In I’m Telling the Truth, but I’m Lying Bassey Ikpi explores her life—as a Nigerian-American immigrant, a black woman, a slam poet, a mother, a daughter, an artist—through the lens of her mental health and diagnosis of bipolar II and anxiety. Her remarkable memoir in essays implodes our preconceptions of the mind and normalcy as Bassey bares her own truths and lies for us all to behold with radical honesty and brutal intimacy.",
       "author": "Bassey Ikpi",
       "img_url": "https://books.google.com/books/content?id=nHlbDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-      "users": [
-        {
-          "id": 8,
-          "username": "maverick"
-        },
-        {
-          "id": 9,
-          "username": "alex"
-        }
-      ]
+      "users": 3
     },
     {
       "id": 4,
